@@ -1,0 +1,73 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 349px;
+  height: 349px;
+  margin: 0 124px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Antic Slab";
+  margin: -294px 570px 60px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 399px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 179px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 391px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 468px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Antic Slab";
+  margin: 14px auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 14px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 217px;
+  height: 97px;
+  margin: 88px auto 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 14px -14px 44px 14px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}

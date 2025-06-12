@@ -6,17 +6,17 @@
   font-family: "Antic Slab";
   margin: 12px auto 20px;
 }.u-section-2 .u-sheet-1 {
-  min-height: 653px;
+  min-height: 1079px;
 }
 
 .u-section-2 .u-products-1 {
-  height: auto;
-  margin: 30px auto 40px 0;
+  margin-top: 29px;
+  margin-bottom: 60px;
 }
 
 .u-section-2 .u-repeater-1 {
   grid-template-columns: repeat(3, 33.3333%);
-  min-height: 520px;
+  min-height: 535px;
   --gap: 0px;
   grid-auto-columns: 33.3333%;
 }
@@ -110,11 +110,11 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-products-1 {
-    margin-right: initial;
-    margin-left: initial;
+    height: auto;
   }
 
   .u-section-2 .u-repeater-1 {
+    min-height: 520px;
     grid-gap: 0px;
     grid-auto-columns: 33.333333333333336%;
   }
