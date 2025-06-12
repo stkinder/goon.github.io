@@ -16,8 +16,35 @@
 }
 
 .u-section-1 .u-custom-html-1 {
-  margin-top: 45px;
-  margin-bottom: 60px;
   height: auto;
   min-height: 636px;
+  margin: 15px 429px 60px 404px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 329px;
+    margin-left: 304px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 219px;
+    margin-left: 194px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 129px;
+    margin-left: 104px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 29px;
+    margin-left: 4px;
+  }
 }
