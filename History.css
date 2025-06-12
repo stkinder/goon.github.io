@@ -1,0 +1,23 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1535px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-top: 45px;
+  margin-bottom: 60px;
+  height: auto;
+  min-height: 636px;
+}
